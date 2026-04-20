@@ -1,0 +1,3 @@
+This project is a console-based backend simulation of an online movie ticket booking platform inspired by BookMyShow. It is developed using Java and demonstrates real-world backend functionalities such as user authentication, movie management, seat booking, payment processing, and booking history tracking.
+
+The system is designed with a modular structure and supports both user and admin roles, providing a complete end-to-end booking experience through a command-line interface.
